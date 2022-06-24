@@ -1,0 +1,12 @@
+{
+    "id": "3848",
+    "parent_exercise_id": null,
+    "name": "Academic Probation Policy",
+    "slug": "student-policies__Academic_Probation_Policy",
+    "sequence_num": 100,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"Academic_Probation_Policy_key1\\\\nAcademic_Probation_Policy_key2\\\\nAcademic_Probation_Policy_key3\\\\n\\\\n\\\\nAcademic_Probation_Policy_key4\\\\n\\\\n\\\\nAcademic_Probation_Policy_key5\\\\nAcademic_Probation_Policy_key6\\\\n\\\\n\\\\n\\\\n- Academic_Probation_Policy_key7\\\\n- Academic_Probation_Policy_key8\\\\n- Academic_Probation_Policy_key9\\\\nAcademic_Probation_Policy_key10\\\\n- Academic_Probation_Policy_key11\\\\n- Academic_Probation_Policy_key12\\\\nAcademic_Probation_Policy_key13\\\\nAcademic_Probation_Policy_key14\\\\nAcademic_Probation_Policy_key15\\\\n\\\\n\\\\nAcademic_Probation_Policy_key16\\\\nAcademic_Probation_Policy_key17\\\\n\\\\n\\\\n\\\\n- Academic_Probation_Policy_key18\\\\n- Academic_Probation_Policy_key19\\\\n- Academic_Probation_Policy_key20\\\\n- Academic_Probation_Policy_key21\\\\n- Academic_Probation_Policy_key22\\\\n- Academic_Probation_Policy_key23\\\\n- Academic_Probation_Policy_key24\\\\nAcademic_Probation_Policy_key25\\\\nAcademic_Probation_Policy_key26\\\\n\\\\n\\\\n- Academic_Probation_Policy_key27\\\\n- Academic_Probation_Policy_key28\\\\nAcademic_Probation_Policy_key29\\\\nAcademic_Probation_Policy_key30\\\\n\\\\n\\\\n- Academic_Probation_Policy_key31\\\\nAcademic_Probation_Policy_key32\\\\nAcademic_Probation_Policy_key33\\\\n\\\\n\\\\nAcademic_Probation_Policy_key34\\\\n\\\"}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Academic_Probation_Policy.md"
+}
